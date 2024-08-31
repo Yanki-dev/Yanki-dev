@@ -1,6 +1,7 @@
 👋 Hello to all the tech leaders! I’m Yanki, an enthusiastic IT engineering student with a strong passion for UI/UX design and frontend development. My focus is on crafting seamless and engaging web experiences that merge creativity with functionality. With a solid foundation in web development, I’m always eager to expand my skillset, learn new technologies, and collaborate on innovative projects that push the boundaries of design and development.
 
 Tech Skills:
+
 •HTML/CSS – Intermediate: Proficient in building responsive and visually appealing layouts using modern HTML5 and CSS3 techniques.
 •JavaScript – Intermediate: Skilled in writing clean and efficient code for dynamic web functionality, focusing on modern ES6+ standards.
 •React – Intermediate: Experienced in creating component-based, reusable UI elements to build scalable and efficient applications.
